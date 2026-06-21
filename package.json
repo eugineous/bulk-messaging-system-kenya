@@ -1,0 +1,9 @@
+{
+  "name": "urban-bulk-sms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Urban Bulk SMS — control app + offline-friendly Swahili translation backend.",
+  "engines": {
+    "node": ">=18"
+  }
+}
